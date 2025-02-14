@@ -7,3 +7,8 @@ for i in range(10):
 
 if (5 > 4):
     a = 3
+
+
+while (True):
+    if (5 > 4):
+        break
