@@ -1,4 +1,5 @@
-print("Hello")
+def printHello():
+    print("Hello")
 
 
 if (5 > 4):
