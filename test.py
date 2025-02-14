@@ -9,3 +9,7 @@ if (5 > 4):
 while (True):
     if (5 > 4):
         break
+
+
+def sum(a, b):
+    return a + b
